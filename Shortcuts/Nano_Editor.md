@@ -1,4 +1,4 @@
-========================================== Nano Most Used Shortcuts  ===============================================
+------------------------------------------ Nano Most Used Shortcuts  -----------------------------------------------
 
 01] Opening Mode  :
 
@@ -56,11 +56,11 @@ ________________________________________________________________________________
 
 04] Find and Replacing :
 	
-	1) CTRL ➕ W 	=> Search for a string or a regular expression
+	1) CTRL ➕ W 	-> Search for a string or a regular expression
 
-	2) CTRL ➕ \ 	=> Replace a string or a regular expression
+	2) CTRL ➕ \ 	-> Replace a string or a regular expression
 
-	3) ALT ➕  W 	=> Repeat the last search
+	3) ALT ➕  W 	-> Repeat the last search
 
 ___________________________________________________________________________________________________________________
 

@@ -1,4 +1,4 @@
-============================================== VS Code =================================================
+---------------------------------------------- VS Code -------------------------------------------------
 
 01] For Windows Commands on CMD :
 
@@ -144,7 +144,7 @@ ________________________________________________________________________________
 		
 		$ Ctrl ➕ p
 		⏩ @<method_name>
-		⏩ @:   = group the symbols method/constructor			   
+		⏩ @:   - group the symbols method/constructor			   
 	
 	6) 	To get all possible possible options : Ctrl ➕ p  		⏩     `?`
 	
