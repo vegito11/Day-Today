@@ -141,10 +141,10 @@
     
     - [Arrays](Programms/Array) 
         
-        1. [Programm Sort Given array on Ascending Order](Programms/SortArray.sh)
+        1. [Programm Sort Given array on Ascending Order](Programms/Array/SortArray.sh)
     
     - [Files](Programms/Files)
         
-        1. [Create new File With some predefind Content ](Programms/template_file.sh)
+        1. [Create new File With some predefind Content ](Programms/Files/template_file.sh)
     
     
