@@ -1,0 +1,1 @@
+echo " Hostname is `hostname` "
